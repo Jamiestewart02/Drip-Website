@@ -1,2 +1,2 @@
 # Drip-Website
-A Ecommerce website that was designed as a second year project
+A Ecommerce website developed for a year 2 project in Web application development. This project was developed as a group project Credits: Darren Gallagher, Alan McSeveney, Anthony Wade , Eunan Ledgewood and myself.
